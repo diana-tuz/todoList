@@ -19,3 +19,9 @@ align-items: center;
   border-radius: 12px;
   border: 1px solid green;
 }
+
+.button{
+  height: 50px;
+  color: red;
+  border-radius: 12px;
+}
